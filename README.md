@@ -6,9 +6,13 @@ MummyCase is a multiplayer (up to 20 players !) platform racing game. We develop
 
 The goal is simple : be the first player to cross the finish line. To do so, you'll need to avoid obstacles and make the smartest moves. Some bonuses are here to help you.   
 
+![](Images/example.png)
+
 Here is a glimpse of the obstacles and bonuses :
 
-![](Images/pads.png)   
+<p align="center">
+  <img src="Images/pads.png" />
+</p>  
 
 To play with your friends, one will have to create a room : enter his name, enter a room name and click "join room".   
 Once the room is created, other players can join the room by entering the same room name and clicking the "join room" button.   
